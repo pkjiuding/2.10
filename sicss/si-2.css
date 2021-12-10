@@ -1,0 +1,17 @@
+span#cookieconsent:desc {
+  font-family: Inter, sans-serif !important;
+  font-size: 16px;
+}
+a.cc-btn.cc-dismiss {
+  border-radius: 5 !important;
+  border-width: 2px !important;
+  font-family: Inter, sans-serif !important;
+  font-size: 15px;
+}
+a.cc-btn.cc-dismiss:hover {
+  border-radius: 5 !important;
+  background: #fff !important;
+  color: #a22629 !important;
+  border-width: 2px !important;
+  border-color: #a22629 !important;
+}
